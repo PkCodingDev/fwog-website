@@ -1,0 +1,272 @@
+[
+  {
+    "slug": "cryptopunks",
+    "name": "CryptoPunks",
+    "image_url": "https://i2c.seadn.io/ethereum/41f13fa2cbb64d908a9add3243345bbc/f092b6ebf5bbfaca498a6135cad5a8/4bf092b6ebf5bbfaca498a6135cad5a8.png",
+    "opensea_url": "https://opensea.io/collection/cryptopunks",
+    "floor_price": 30.96,
+    "market_cap": 304.9557571522517,
+    "total_supply": 9994
+  },
+  {
+    "slug": "boredapeyachtclub",
+    "name": "Bored Ape Yacht Club",
+    "image_url": "https://i2c.seadn.io/collection/boredapeyachtclub/image/1a09c26b1c30427b26944c47fc7bb9/d81a09c26b1c30427b26944c47fc7bb9.png",
+    "opensea_url": "https://opensea.io/collection/boredapeyachtclub",
+    "floor_price": 5.84,
+    "market_cap": 1638.1038135748072,
+    "total_supply": 9998
+  },
+  {
+    "slug": "mutant-ape-yacht-club",
+    "name": "Mutant Ape Yacht Club",
+    "image_url": "https://i2c.seadn.io/collection/mutant-ape-yacht-club/image/33dcf5ce12bc4760bf912a5b3f5979/f033dcf5ce12bc4760bf912a5b3f5979.png",
+    "opensea_url": "https://opensea.io/collection/mutant-ape-yacht-club",
+    "floor_price": 0.8283,
+    "market_cap": 21438.951814698667,
+    "total_supply": 19558
+  },
+  {
+    "slug": "azuki",
+    "name": "Azuki",
+    "image_url": "https://i2c.seadn.io/collection/azuki/image/d62d4b9df96c961712b03f41c4231c/4dd62d4b9df96c961712b03f41c4231c.jpeg",
+    "opensea_url": "https://opensea.io/collection/azuki",
+    "floor_price": 0.872,
+    "market_cap": 7797.210890693249,
+    "total_supply": 10000
+  },
+  {
+    "slug": "pudgypenguins",
+    "name": "Pudgy Penguins",
+    "image_url": "https://i2c.seadn.io/collection/pudgypenguins/image/f489fb69fd11886b468c0f7ff1376c/cdf489fb69fd11886b468c0f7ff1376c.png",
+    "opensea_url": "https://opensea.io/collection/pudgypenguins",
+    "floor_price": 5.458,
+    "market_cap": 1548.5151040365636,
+    "total_supply": 8888
+  },
+  {
+    "slug": "otherdeed",
+    "name": "Otherdeed for Otherside",
+    "image_url": "https://i2c.seadn.io/collection/otherdeed/image/8031a7bfbb75c4777a63957828f657/028031a7bfbb75c4777a63957828f657.jpeg",
+    "opensea_url": "https://opensea.io/collection/otherdeed",
+    "floor_price": 0.1056069899011,
+    "market_cap": 228903.41570443727,
+    "total_supply": 35500
+  },
+  {
+    "slug": "clonex",
+    "name": "CLONE X - X TAKASHI MURAKAMI",
+    "image_url": "https://i2c.seadn.io/ethereum/75db99053ab444cfa0d8fb55d1f60547/2a98bfb35de339b49f3a4f0c4696c4/5c2a98bfb35de339b49f3a4f0c4696c4.png",
+    "opensea_url": "https://opensea.io/collection/clonex",
+    "floor_price": 0.129789,
+    "market_cap": 138720.1428840148,
+    "total_supply": 19764
+  },
+  {
+    "slug": "moonbirds",
+    "name": "Moonbirds",
+    "image_url": "https://i2c.seadn.io/admin-uploads/8a589d8d6f4e5ffd1200a47be25783/678a589d8d6f4e5ffd1200a47be25783.png",
+    "opensea_url": "https://opensea.io/collection/moonbirds",
+    "floor_price": 1.7899999,
+    "market_cap": 5327.275922181185,
+    "total_supply": 9999
+  },
+  {
+    "slug": "doodles-official",
+    "name": "Doodles",
+    "image_url": "https://i2c.seadn.io/collection/doodles-official/image/63a85a2900fdd4bfe8f34a444b72d3/e663a85a2900fdd4bfe8f34a444b72d3.jpeg",
+    "opensea_url": "https://opensea.io/collection/doodles-official",
+    "floor_price": 0.575999,
+    "market_cap": 12156.783055046322,
+    "total_supply": 9998
+  },
+  {
+    "slug": "wrapped-cryptopunks",
+    "name": "Wrapped Cryptopunks",
+    "image_url": "https://i2c.seadn.io/ethereum/c755bc5b794641d3af0f1544126f8a13/972d771af4d633e70e00338aa38e34/e0972d771af4d633e70e00338aa38e34.png",
+    "opensea_url": "https://opensea.io/collection/wrapped-cryptopunks",
+    "floor_price": 33.99,
+    "market_cap": 0,
+    "total_supply": 524
+  },
+  {
+    "slug": "bored-ape-kennel-club",
+    "name": "Bored Ape Kennel Club",
+    "image_url": "https://i2c.seadn.io/collection/bored-ape-kennel-club/image/dfc6be4d9c5d4f073de2efe181416a/c4dfc6be4d9c5d4f073de2efe181416a.jpeg",
+    "opensea_url": "https://opensea.io/collection/bored-ape-kennel-club",
+    "floor_price": 0.17379592,
+    "market_cap": 50501.53502024429,
+    "total_supply": 9602
+  },
+  {
+    "slug": "meebits",
+    "name": "Meebits",
+    "image_url": "https://i2c.seadn.io/ethereum/333a4a1b74694e5b8b12d9a6983ec00d/036c8c2bed042a1588622c3173677f/2d036c8c2bed042a1588622c3173677f.png",
+    "opensea_url": "https://opensea.io/collection/meebits",
+    "floor_price": 0.46476996,
+    "market_cap": 38439.28587632628,
+    "total_supply": 20000
+  },
+  {
+    "slug": "cool-cats-nft",
+    "name": "Cool Cats",
+    "image_url": "https://i2c.seadn.io/ethereum/aaa51fcc7e44421b8a9f54bab4269fd1/2c31f59ad9d5f4565d33e0351fa8e9/872c31f59ad9d5f4565d33e0351fa8e9.png",
+    "opensea_url": "https://opensea.io/collection/cool-cats-nft",
+    "floor_price": 0.204399,
+    "market_cap": 45869.97759532722,
+    "total_supply": 9968
+  },
+  {
+    "slug": "milady",
+    "name": "Milady Maker",
+    "image_url": "https://i2c.seadn.io/collection/milady/image/d4499e2e55f5e85ead4b0eb7f7dad7/90d4499e2e55f5e85ead4b0eb7f7dad7.jpeg",
+    "opensea_url": "https://opensea.io/collection/milady",
+    "floor_price": 1.0899,
+    "market_cap": 8445.712662996923,
+    "total_supply": 9998
+  },
+  {
+    "slug": "beanzofficial",
+    "name": "BEANZ Official",
+    "image_url": "https://i2c.seadn.io/collection/beanzofficial/image/55051cfd6611e32edc843d7cc5acf7/5c55051cfd6611e32edc843d7cc5acf7.png",
+    "opensea_url": "https://opensea.io/collection/beanzofficial",
+    "floor_price": 0.06039,
+    "market_cap": 277897.75760202244,
+    "total_supply": 19950
+  },
+  {
+    "slug": "lilpudgys",
+    "name": "Lil Pudgys",
+    "image_url": "https://i2c.seadn.io/collection/lilpudgys/image/9289b91d3d0cefccfe6b9c7f83f471/649289b91d3d0cefccfe6b9c7f83f471.png",
+    "opensea_url": "https://opensea.io/collection/lilpudgys",
+    "floor_price": 0.663999999999999,
+    "market_cap": 30690.48203305711,
+    "total_supply": 21921
+  },
+  {
+    "slug": "audioglyphs",
+    "name": "Audioglyphs",
+    "image_url": "https://raw2.seadn.io/ethereum/c2434cb56e044277b98c6cde89d847a5/bedeeed1fb1cac38cb9c5d3ea909cd/50bedeeed1fb1cac38cb9c5d3ea909cd.svg",
+    "opensea_url": "https://opensea.io/collection/audioglyphs",
+    "floor_price": 0.0171238,
+    "market_cap": 729917.7494611581,
+    "total_supply": 9989
+  },
+  {
+    "slug": "degods-eth",
+    "name": "DeGods",
+    "image_url": "https://i2c.seadn.io/ethereum/64fc919db37f4fc8bb0e4ee04980a097/6fad40382fc62e13653ca7b1a6e0c7/7e6fad40382fc62e13653ca7b1a6e0c7.jpeg",
+    "opensea_url": "https://opensea.io/collection/degods-eth",
+    "floor_price": 0.240205,
+    "market_cap": 14842.37234833157,
+    "total_supply": 3580
+  },
+  {
+    "slug": "hashmasks",
+    "name": "Hashmasks",
+    "image_url": "https://i2c.seadn.io/ethereum/f0cdf725b16f4c9886e712a16dfaed87/94640b4fabf4edc4982ef594386c7f/8d94640b4fabf4edc4982ef594386c7f.jpeg",
+    "opensea_url": "https://opensea.io/collection/hashmasks",
+    "floor_price": 0.068899,
+    "market_cap": 214295.49281307307,
+    "total_supply": 16384
+  },
+  {
+    "slug": "sandbox",
+    "name": "The Sandbox LANDs",
+    "image_url": "https://i2c.seadn.io/polygon/c3e4adefbe7b4f168d3657e956dd156b/7ecfd5baef23c686e541a67b3eb616/037ecfd5baef23c686e541a67b3eb616.png",
+    "opensea_url": "https://opensea.io/collection/sandbox",
+    "floor_price": 0.0285,
+    "market_cap": 9229042.814002648,
+    "total_supply": 281878
+  },
+  {
+    "slug": "lootproject",
+    "name": "Loot (for Adventurers)",
+    "image_url": "https://i2c.seadn.io/ethereum/778aa4ffe5c54067b64b21202c6cbfd5/5239cd491b4f5059e514c88304fd3a/b75239cd491b4f5059e514c88304fd3a.png",
+    "opensea_url": "https://opensea.io/collection/lootproject",
+    "floor_price": 0.0629,
+    "market_cap": 136705.4839477816,
+    "total_supply": 7779
+  },
+  {
+    "slug": "cryptoadz-by-gremplin",
+    "name": "CrypToadz by GREMPLIN",
+    "image_url": "https://i2c.seadn.io/ethereum/017770c7600c4a9aa235e7a10f49e092/5527bc461fe26e3820635ec950826c/1f5527bc461fe26e3820635ec950826c.gif",
+    "opensea_url": "https://opensea.io/collection/cryptoadz-by-gremplin",
+    "floor_price": 0.405,
+    "market_cap": 17069.176350276295,
+    "total_supply": 7015
+  },
+  {
+    "slug": "memelandcaptainz",
+    "name": "Memeland Captainz",
+    "image_url": "https://i2c.seadn.io/collection/memelandcaptainz/image/f4d75778066bce740050615bc84e21/6df4d75778066bce740050615bc84e21.png",
+    "opensea_url": "https://opensea.io/collection/memelandcaptainz",
+    "floor_price": 0.18944,
+    "market_cap": 49085.22846945433,
+    "total_supply": 9999
+  },
+  {
+    "slug": "world-of-women-nft",
+    "name": "World of Women",
+    "image_url": "https://i2c.seadn.io/admin-uploads/20e55f17e6d30cc82f8fcd35347339/e320e55f17e6d30cc82f8fcd35347339.png",
+    "opensea_url": "https://opensea.io/collection/world-of-women-nft",
+    "floor_price": 0.209992,
+    "market_cap": 26188.42833115069,
+    "total_supply": 10000
+  },
+  {
+    "slug": "parallelalpha",
+    "name": "Parallel Alpha",
+    "image_url": "https://i2c.seadn.io/collection/parallelalpha/image/d279f67a2d4a27cfdbb3883564cd14/1dd279f67a2d4a27cfdbb3883564cd14.png",
+    "opensea_url": "https://opensea.io/collection/parallelalpha",
+    "floor_price": 0.000083,
+    "market_cap": 2727639742.759436,
+    "total_supply": 5855623
+  },
+  {
+    "slug": "0n1-force",
+    "name": "0N1 Force",
+    "image_url": "https://i2c.seadn.io/ethereum/13ee6ba6db0b4b2f93b303df4996c3bd/42b7b54aadf15c977b92e18a08750f/6242b7b54aadf15c977b92e18a08750f.png",
+    "opensea_url": "https://opensea.io/collection/0n1-force",
+    "floor_price": 0.107,
+    "market_cap": 70148.69502861601,
+    "total_supply": 7777
+  },
+  {
+    "slug": "chromie-squiggle-by-snowfro",
+    "name": "Chromie Squiggle by Snowfro",
+    "image_url": "https://i2c.seadn.io/ethereum/f171aeee4d65341191a1de574affab53/33026283124b2200c938c7a3395107/f233026283124b2200c938c7a3395107.png",
+    "opensea_url": "https://opensea.io/collection/chromie-squiggle-by-snowfro",
+    "floor_price": 2.62,
+    "market_cap": 3504.0015722483085,
+    "total_supply": 10000
+  },
+  {
+    "slug": "veefriends",
+    "name": "VeeFriends",
+    "image_url": "https://i2c.seadn.io/collection/veefriends/image_type_logo/14dac63ac55553de06c5690fca2583/c214dac63ac55553de06c5690fca2583.png",
+    "opensea_url": "https://opensea.io/collection/veefriends",
+    "floor_price": 1.219679,
+    "market_cap": 6584.749621128695,
+    "total_supply": 10255
+  },
+  {
+    "slug": "fidenza-by-tyler-hobbs",
+    "name": "Fidenza by Tyler Hobbs",
+    "image_url": "https://i2c.seadn.io/collection/fidenza-by-tyler-hobbs/image/70936496054650faf8ee38a7cab5e8/ae70936496054650faf8ee38a7cab5e8.png",
+    "opensea_url": "https://opensea.io/collection/fidenza-by-tyler-hobbs",
+    "floor_price": 23.9,
+    "market_cap": 52.78731836195509,
+    "total_supply": 999
+  },
+  {
+    "slug": "azukielementals",
+    "name": "Azuki Elementals",
+    "image_url": "https://i2c.seadn.io/collection/azukielementals/image/af43ee4a02d5affb7e8fc186d0bdb5/bbaf43ee4a02d5affb7e8fc186d0bdb5.png",
+    "opensea_url": "https://opensea.io/collection/azukielementals",
+    "floor_price": 0.0909812,
+    "market_cap": 155359.26516208926,
+    "total_supply": 17707
+  }
+]
